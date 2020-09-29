@@ -4565,6 +4565,8 @@ add list=dpbr-CT address=103.156.78.0/23
 add list=dpbr-CT address=103.156.104.0/23
 add list=dpbr-CT address=103.156.158.0/23
 add list=dpbr-CT address=103.156.166.0/23
+add list=dpbr-CT address=103.156.174.0/23
+add list=dpbr-CT address=103.156.186.0/23
 add list=dpbr-CT address=103.192.8.0/21
 add list=dpbr-CT address=103.192.16.0/20
 add list=dpbr-CT address=103.192.128.0/22
